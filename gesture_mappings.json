@@ -1,0 +1,53 @@
+{
+  "Momentary": {
+    "type": "key_press",
+    "key": "space"
+  },
+  "LongHold": {
+    "type": "key_press",
+    "key": "m"
+  },
+  "Rpush": {
+    "type": "hotkey",
+    "keys": [
+      "alt",
+      "left"
+    ]
+  },
+  "Rpull": {
+    "type": "hotkey",
+    "keys": [
+      "alt",
+      "left"
+    ]
+  },
+  "Lpush": {
+    "type": "hotkey_repeat",
+    "keys": [
+      "ctrl",
+      "down"
+    ],
+    "repeat": 2
+  },
+  "Lpull": {
+    "type": "hotkey",
+    "keys": [
+      "ctrl",
+      "up"
+    ]
+  },
+  "Swipe_Right_Left": {
+    "type": "key_press",
+    "keys": [
+      "alt",
+      "left"
+    ]
+  },
+  "Swipe_Left_Right": {
+    "type": "key_press",
+    "keys": [
+      "alt",
+      "left"
+    ]
+  }
+}
