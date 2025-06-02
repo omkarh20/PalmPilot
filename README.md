@@ -16,10 +16,11 @@ PalmPilot is a hand-gesture based video playback system. Arduino sensors detect 
 ![App Preview](media/app_screenshot.png)
 
 ##### App Demo
-![App demo](media/demo.gif)
+![App demo](media/demo.mp4)
 
 ##### Connections
 ![Setup](media/setup.jpg)
+
 ![Connections](media/connections.jpg)
 
 ##### Circuit Diagram
