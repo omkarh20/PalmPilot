@@ -8,15 +8,18 @@
     "key": "m"
   },
   "Rpush": {
-    "type": "hotkey",
+    "type": "hotkey_repeat",
     "keys": [
+      "ctrl",
       "alt",
-      "left"
-    ]
+      "right"
+    ],
+    "repeat": 3
   },
   "Rpull": {
     "type": "hotkey",
     "keys": [
+      "ctrl",
       "alt",
       "left"
     ]
@@ -27,7 +30,7 @@
       "ctrl",
       "down"
     ],
-    "repeat": 2
+    "repeat": 3
   },
   "Lpull": {
     "type": "hotkey",
@@ -38,16 +41,10 @@
   },
   "Swipe_Right_Left": {
     "type": "key_press",
-    "keys": [
-      "alt",
-      "left"
-    ]
+    "key": "p"
   },
   "Swipe_Left_Right": {
     "type": "key_press",
-    "keys": [
-      "alt",
-      "left"
-    ]
+    "key": "n"
   }
 }

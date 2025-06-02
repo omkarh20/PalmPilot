@@ -12,12 +12,17 @@ PalmPilot is a hand-gesture based video playback system. Arduino sensors detect 
 
 ## Demo
 
-![Application Preview](media/app_screenshot.png)
+##### App preview
+![App Preview](media/app_screenshot.png)
 
+##### App Demo
 ![App demo](media/demo.gif)
 
-![Connections](media/connections.png)
+##### Connections
+![Setup](media/setup.jpg)
+![Connections](media/connections.jpg)
 
+##### Circuit Diagram
 ![Circuit Diagram](media/circuit_diagram.png)
 
 ## Prerequisites
@@ -31,8 +36,8 @@ PalmPilot is a hand-gesture based video playback system. Arduino sensors detect 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/omkarh20/PlayScout.git
-   cd PlayScout
+   git clone https://github.com/omkarh20/PalmPilot.git
+   cd PalmPilot
    ```
 
 2. **Setup**:
@@ -49,4 +54,4 @@ PalmPilot is a hand-gesture based video playback system. Arduino sensors detect 
 - Press the button placed on the breadboard
 - Open any video playback app and make gestures. The appropriate actions will be done
 
-**Note:** By default, all the gesture-actions mappings are for VLC Media Player. Change if needed
+**Note:** By default, all the gesture-actions mappings are for VLC Media Player. Change the mappings according to your needs.

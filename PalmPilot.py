@@ -27,7 +27,7 @@ def save_gesture_mappings(data):
 single_keys = ['space', 'm', 'k', 'n', 'p']
 hotkey_combinations = [
     ['alt', 'left'], ['alt', 'right'], ['ctrl', 'up'], ['ctrl', 'down'],
-    ['shift', 'left'], ['shift', 'right']
+    ['shift', 'left'], ['shift', 'right'], ['ctrl', 'alt', 'right'], ['ctrl', 'alt', 'left']
 ]
 
 gesture_types = {
@@ -37,8 +37,8 @@ gesture_types = {
     "Rpull": "hotkey",
     "Lpush": "hotkey",
     "Lpull": "hotkey",
-    "Swipe_Right_Left": "hotkey",
-    "Swipe_Left_Right": "hotkey"
+    "Swipe_Right_Left": "single",
+    "Swipe_Left_Right": "single"
 }
 
 # Graph data
