@@ -1,6 +1,6 @@
 # PalmPilot
 
-PalmPilot is a hand-gesture based video playback system. Arduino sensors detect your hand gestures and the appropriate actions such as forward, rewind, volume-up etc are triggered. All actions are customizable.
+PalmPilot is a hand-gesture based video playback system. Arduino sensors detect your hand gestures and the appropriate actions such as forward, rewind, volume-up etc are triggered. Actions are detected by two ultrasonic sensors and one infrared sensor. A push button is used to toggle gesture detection, can be disabled when detection is not required. All gesture-action pairs are customizable through the app ui.
 
 ## Gestures
 
@@ -32,6 +32,16 @@ https://private-user-images.githubusercontent.com/170164883/450714432-c01dfd9b-6
 - Python 3.7+
 - Installed python packages: pyserial
 
+## Components
+
+- Arduino Uno
+- Breadboard
+- Two Ultrasonic Sensors
+- One Infrared Sensor
+- M-F Jumper wires
+- M-M Jumper wires
+- 4-pin momentary push button
+
 ## Instructions
 
 1. **Clone the repository**:
@@ -52,7 +62,7 @@ https://private-user-images.githubusercontent.com/170164883/450714432-c01dfd9b-6
 - Execute `python3 PalmPilot.py`
 - Change any mappings if needed and press "Save mappings".
 - Press "Run Program"
-- Press the button placed on the breadboard
+- Press the button placed on the breadboard which toggles gesture detection enabling/disabling.
 - Open any video playback app and make gestures. The appropriate actions will be done
 
 **Note:** By default, all the gesture-actions mappings are for VLC Media Player. Change the mappings according to your needs.
