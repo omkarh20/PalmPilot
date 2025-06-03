@@ -16,7 +16,7 @@ PalmPilot is a hand-gesture based video playback system. Arduino sensors detect 
 ![App Preview](media/app_screenshot.png)
 
 ##### App Demo
-![App demo](media/demo.mp4)
+![App demo](https://private-user-images.githubusercontent.com/170164883/450714432-c01dfd9b-64cc-45fe-a019-079fda63d762.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5NDU5ODUsIm5iZiI6MTc0ODk0NTY4NSwicGF0aCI6Ii8xNzAxNjQ4ODMvNDUwNzE0NDMyLWMwMWRmZDliLTY0Y2MtNDVmZS1hMDE5LTA3OWZkYTYzZDc2Mi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwM1QxMDE0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjQ0YmJiOTUwYjdiOGVkZDc0ODQzZWQ3OTVkZGUzMzIyZjFmZDljOWRjOTBiMDk1Y2UyMjc4YmU3NjFmZDM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oE1RFhkE0CKsUGe0KXyLA6ZyXEvR-hQYCvklxGr4hsE)
 
 ##### Connections
 ![Setup](media/setup.jpg)
